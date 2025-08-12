@@ -23,7 +23,7 @@
 
 <div align="center">
 <sub>This e-Shop website is created by
-<a href="https://github.com/ValentineFernandes">Valentine Fernandes
+<a href="https://github.com/ValentineFernandes">
 </a>
 </sub>
 </div>
