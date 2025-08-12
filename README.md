@@ -7,24 +7,8 @@
 > It's a Maven-based project.
 
 
-<div align="center">
-<sub>This e-Shop website is created by
-<a href="https://github.com/ValentineFernandes">
-</a>
-</sub>
-</div>
 
 
-<h1 align="center">Home Page (index.jsp)</h1>
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg">
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop2.jpg" width="2000px">
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop3.jpg" width="2000px">
-
-<h1 align="center">Cart Page (cart.jsp)</h1>
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop5.jpg" width="2000px">
-
-<h1 align="center">Login Page (login.jsp)</h1>
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop6.jpg" width="2000px">
 
 # 📝 Features
 
