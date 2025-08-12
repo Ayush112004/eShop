@@ -1,19 +1,5 @@
 <h1 align="center">e-Shop Website</h1>
 
-<p align="center">  
-<a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
-       <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-FF6347?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-  <a href="https://github.com/ValentineFernandes/eShop-Website/blob/main/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/ValentineFernandes/eShop-Website?color=red" target="_blank" />
-  </a>
-  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/eShop-Website?color=red" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/ValentineFernandes/eShop-Website?color=red" />
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/ValentineFernandes/eShop-Website?color=red" />
-<img alt= "Watchers" src="https://img.shields.io/github/watchers/ValentineFernandes/eShop-Website?color=red" />
-<img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/eShop-Website?color=red" />
-</p>
-
 
 > e-Shop is an e-commerce website where you can shop for items online.
 
